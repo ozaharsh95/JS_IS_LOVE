@@ -32,3 +32,7 @@ filtering data , matching pattern , validating inputs are applications of regex.
 + '?' it means the character may or may not appear
 + Greedy matching or Non Greedy
 + Methods search(), replace(), test() ,match()
+
+# Acknowledgement: 
+[How to Use Regular Expressions in JavaScript – Tutorial for Beginners](https://www.freecodecamp.org/news/regular-expressions-for-beginners/) : 
+Special Thanx to freecodecamp and Chinwendu Enyinna for creating this amazing blog.
